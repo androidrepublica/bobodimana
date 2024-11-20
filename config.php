@@ -1,0 +1,4 @@
+<?php
+define('GOOGLE_DRIVE_API_KEY', 'YOUR_API_KEY');
+define('GOOGLE_DRIVE_FOLDER_ID', 'YOUR_FOLDER_ID');
+?>
