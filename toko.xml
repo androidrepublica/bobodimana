@@ -1,28 +1,11 @@
 <channels>
     <channel>
-        <title>Home Of Kids</title>
-        <logo>http://linear-poster.astro.com.my/prod/logo/HOK_CH100.png</logo>
-        <stream>
-            https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
-        </stream>
-        <license_type>clearkey</license_type>
-        <license_key>
-            12d9a54e458d31975632be17a8dac010:aa6173e8795c9b0b2733df838934817f
-        </license_key>
-    </channel>
-    <channel>
-        <title>TV1</title>
-        <logo>http://linear-poster.astro.com.my/prod/logo/TV1_v1.png</logo>
-        <stream>https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd</stream>
-    </channel>
-    <channel>
-        <title>TV2</title>
-        <logo>http://linear-poster.astro.com.my/prod/logo/TV2_v1.png</logo>
-        <stream>https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd</stream>
-    </channel>
-    <channel>
-        <title>TV3</title>
-        <logo>http://linear-poster.astro.com.my/prod/logo/TV3_v1.png</logo>
-        <stream>https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311</stream>
+        <title>128 Dunia Sinema</title>
+        <logo>http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png</logo>
+        <group>UNIFI TV</group>
+        <stream>https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8</stream>
+        <license_type>com.widevine.alpha</license_type>
+        <license_key>https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz</license_key>
+        <user_agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0</user_agent>
     </channel>
 </channels>
