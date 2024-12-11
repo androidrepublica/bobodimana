@@ -2,7 +2,14 @@
     <channel>
         <title>Home Of Kids</title>
         <logo>http://linear-poster.astro.com.my/prod/logo/HOK_CH100.png</logo>
-        <stream>https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd</stream>
+        <group>FreeView</group>
+        <stream>
+            https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
+        </stream>
+        <license_type>clearkey</license_type>
+        <license_key>
+            12d9a54e458d31975632be17a8dac010:aa6173e8795c9b0b2733df838934817f
+        </license_key>
     </channel>
     <channel>
         <title>TV1</title>
