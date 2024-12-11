@@ -2,7 +2,6 @@
     <channel>
         <title>Home Of Kids</title>
         <logo>http://linear-poster.astro.com.my/prod/logo/HOK_CH100.png</logo>
-        <group>FreeView</group>
         <stream>
             https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
         </stream>
