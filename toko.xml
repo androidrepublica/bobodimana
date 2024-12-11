@@ -12,7 +12,7 @@
     
     <channel>
         <title>109 Unifi TV9</title>
-        <logo>https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON</logo>
+        <logo></logo>
         <group>UNIFI TV</group>
         <stream>https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8</stream>
         <license_type>clearkey</license_type>
