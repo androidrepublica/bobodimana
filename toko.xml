@@ -1,10 +1,12 @@
-<channels>    
+<channels>
     <channel>
-        <title>109 Unifi TV9</title>
-        <logo></logo>
+        <title>128 Dunia Sinema</title>
+        <logo>http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png</logo>
         <group>UNIFI TV</group>
-        <stream>https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8</stream>
-        <license_type>clearkey</license_type>
-        <license_key>{"keys":[{"kty":"oct","k":"Zfavh1DSSyMNkbmEI3rB5A","kid":"HfqKZFr0HoPFIL3fkTk0yg"}],"type":"temporary"}</license_key>
+        <stream>https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8</stream>
+        <license_type>com.widevine.alpha</license_type>
+        <license_key>https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz</license_key>
+        <user_agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0</user_agent>
     </channel>
 </channels>
+
